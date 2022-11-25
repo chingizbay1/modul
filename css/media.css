@@ -1,0 +1,610 @@
+@media (max-width: 1140px) {
+  #usa .use--logo__put--put1 p {
+    font-size: 13px;
+    line-height: 15px;
+  }
+  #hero .hero1 {
+    width: 1140px;
+    height: 660px;
+  }
+  #usa .use--logo {
+    width: 1080px;
+    height: 330px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  #usa .use--logo1__but1 {
+    font-size: 40px;
+    line-height: 40px;
+    margin-left: -100px;
+  }
+  #usa .use--logo1__but {
+    margin-left: -100px;
+  }
+  #china .china--gum {
+    width: 1140px;
+  }
+  #car .car--colm__como--com__jami {
+    width: 350px;
+  }
+  #car .car--colm__como {
+    width: 359px;
+  }
+}
+@media (max-width: 1024px) {
+  #china .china--gum {
+    width: 1039px;
+  }
+  #car .car--colm__como--com__jami {
+    width: 308px;
+  }
+  #car .car--colm__como {
+    width: 308px;
+  }
+  #hero .hero1 {
+    width: 1024px;
+    height: 661px;
+  }
+  #pubg .pubg--play__colm--como__com--lolo {
+    width: 320px;
+  }
+  #pubg .pubg--play__colm--como {
+    height: 316px;
+  }
+  #usa .use--logo {
+    width: 973px;
+  }
+  #footer .footer--kano {
+    margin-top: 27px;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+@media (max-width: 992px) {
+  #china .china--gum {
+    width: 1009px;
+  }
+  #usa .use--logo {
+    width: 940px;
+  }
+  #usa .use--logo1__but1 {
+    font-size: 35px;
+    line-height: 35px;
+  }
+  #rasia .rasia--do__dont--in {
+    width: 75%;
+  }
+  #rasia .rasia--do__com {
+    height: 450px;
+  }
+  #dad .dad--logo {
+    width: 419px;
+    margin-left: 81px;
+  }
+  #footer .footer--pen {
+    width: 118%;
+    margin-left: -98px;
+  }
+  #hero .hero1 {
+    width: 992px;
+    height: 661px;
+  }
+  #footer .footer--kano {
+    width: 115%;
+    margin-left: -35px;
+  }
+}
+@media (max-width: 768px) {
+  #hero {
+    background: url(/img/fon.png);
+    min-height: 100vh;
+    height: 599px;
+  }
+  #hero .hero1 {
+    width: 768px;
+    height: 600px;
+  }
+  #usa .use--logo1__but {
+    margin-left: -102px;
+  }
+  #usa .use--logo1__but1 {
+    font-size: 30px;
+    line-height: 30px;
+    margin-left: -99px;
+  }
+  #usa .use--logo {
+    width: 726px;
+  }
+  #usa .use--logo__put--tub__fut {
+    width: 80%;
+    margin-top: 20px;
+  }
+  #usa .use--logo__put--tub__gut h1 {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  #usa .use--logo__put--tub__gut p {
+    font-size: 12px;
+    line-height: 14px;
+  }
+  #rasia .rasia--rus h1 {
+    margin-top: 66px;
+    font-size: 13px;
+    line-height: 17px;
+  }
+  #rasia .rasia--rus h2 {
+    font-size: 33px;
+    line-height: 39px;
+  }
+  #rasia .rasia--rus p {
+    font-size: 16px;
+    line-height: 17px;
+  }
+  #rasia .rasia--do__dont--in {
+    width: 70%;
+  }
+  #rasia .rasia--do__com {
+    height: 410px;
+  }
+  #china .china--gum {
+    width: 797px;
+  }
+  #car .car--cat h1 {
+    font-size: 13px;
+    line-height: 14px;
+    margin-top: -53px;
+  }
+  #car .car--cat h2 {
+    font-size: 32px;
+    line-height: 30px;
+  }
+  #car .car--cat p {
+    font-size: 15px;
+    line-height: 17px;
+  }
+  #car .car--colm {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  #dad .dad--logo {
+    width: 260px;
+    margin-left: 37px;
+  }
+  #dad .dad--mom__baby h2 {
+    font-size: 30px;
+    line-height: 32px;
+  }
+  #dad .dad--mom__baby h1 {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  #dad .dad--mom__baby p {
+    font-size: 14px;
+    line-height: 17px;
+  }
+  #dad .dad--logo__put--tub__gut h1 {
+    font-size: 12px;
+    line-height: 12px;
+    margin-top: -12px;
+  }
+  #dad .dad--logo__put--tub__gut p {
+    font-size: 10px;
+    line-height: 13px;
+  }
+  #dad .dad--logo__put--tub__fut {
+    width: 80%;
+    margin-top: 10px;
+  }
+  #pubg .pubg--play__colm--como__com--lolo {
+    width: 253px;
+  }
+  #pubg .pubg--play__colm--como__com h3 {
+    margin-top: 8px;
+    font-size: 11px;
+    line-height: 15px;
+    margin-left: 12px;
+  }
+  #pubg .pubg--play__colm--como__com h4 {
+    margin-top: 4px;
+    font-size: 13px;
+    line-height: 13px;
+    margin-left: 12px;
+  }
+  #pubg .pubg--play__colm--como__com p {
+    margin-top: 8px;
+    font-size: 11px;
+    line-height: 19px;
+    margin-left: 14px;
+  }
+  #pubg .pubg--play__colm--como {
+    height: 225px;
+  }
+  #pubg .pubg--play__cod--cud__btn {
+    font-size: 14px;
+    line-height: 15px;
+  }
+  #swiper1 .swiper1--as h1 {
+    font-size: 13px;
+    line-height: 18px;
+    margin-left: -47px;
+  }
+  #swiper1 .swiper1--as h2 {
+    font-size: 30px;
+    line-height: 38px;
+    margin-left: -47px;
+  }
+  #swiper1 .swiper-slide .title {
+    font-size: 15px;
+  }
+  #swiper1 .swiper-slide .subtitle {
+    font-size: 20px;
+  }
+  #swiper1 .swiper-slide .text {
+    font-size: 13px;
+    line-height: 1;
+  }
+  #footer .footer--kano__nano h1 {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  #footer .footer--kano__nano h2 {
+    font-size: 12px;
+  }
+  #footer .footer--cara__anna--tas {
+    width: 25%;
+  }
+  #london .london--chem h2 {
+    font-size: 32px;
+  }
+  #london .london--wat p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  #london .london--df__sap--kop {
+    border-radius: 5px;
+    padding: 10px 25px;
+  }
+  #london .london--df__sap--kob {
+    margin-left: 36px;
+    border-radius: 5px;
+    padding: 3px 31px;
+    height: 36px;
+  }
+}
+@media (max-width: 576px) {
+  #hero .hero1 {
+    width: 576px;
+    height: 570px;
+  }
+  #hero {
+    background: url(/img/fon.png);
+    min-height: 100vh;
+    height: 520px;
+  }
+  #hero .hero--img h1 {
+    font-size: 26px;
+    line-height: 23px;
+  }
+  #header .header--menu {
+    display: none;
+  }
+  #menuBurger .header--menu {
+    display: block;
+  }
+  #usa .use--logo {
+    width: 540px;
+  }
+  #usa .use--logo__logo1 {
+    margin-top: -168px;
+  }
+  #usa .use--logo__put--put1 {
+    margin-top: 165px;
+  }
+  #usa .use--logo__put--put1 p {
+    font-size: 12px;
+    line-height: 12px;
+    margin-left: -90px;
+  }
+  #usa .use--logo__put--tub__fut {
+    width: 75%;
+    margin-top: -4px;
+  }
+  #usa .use--logo__put--tub__gut p {
+    font-size: 11.5px;
+    line-height: 13px;
+  }
+  #usa .use--logo__put--tub__gut h1 {
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: -21px;
+  }
+  #usa .use--logo1__but {
+    margin-left: -15px;
+  }
+  #usa .use--logo1__but1 {
+    margin-left: -15px;
+  }
+  #rasia .rasia--do__dont--in {
+    width: 56%;
+  }
+  #rasia .rasia--do__com--dont__im {
+    width: 180px;
+    height: 107px;
+  }
+  #rasia .rasia--do__com--dont__rx {
+    margin-top: -41px;
+  }
+  #rasia .rasia--do__com--dont__xr {
+    margin-top: -46px;
+  }
+  #rasia .rasia--do__com {
+    height: 351px;
+  }
+  #rasia .rasia--do__com--dont__im--it {
+    padding: 1px;
+    background: #45525B;
+  }
+  #china .china--gum {
+    width: 611px;
+  }
+  #car .car--colm {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  #dad .dad--mom__baby h2 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  #dad .dad--logo__put--tub__gut h1 {
+    font-size: 10px;
+    line-height: 10px;
+    margin-top: -17px;
+  }
+  #dad .dad--logo__put--tub__fut {
+    width: 70%;
+    margin-top: 7px;
+  }
+  #dad {
+    margin: 1px;
+  }
+  #dad .dad--mom__baby p {
+    font-size: 12px;
+    margin-top: 5px;
+    line-height: 14px;
+  }
+  #pubg .pubg--play h1 {
+    font-size: 13px;
+    line-height: 12px;
+  }
+  #pubg .pubg--play h2 {
+    font-size: 32px;
+    line-height: 33px;
+  }
+  #pubg .pubg--play__colm {
+    display: grid;
+    justify-content: center;
+  }
+  #pubg .pubg--play__colm--como {
+    width: 291px;
+    height: 249px;
+  }
+  #pubg .pubg--play__colm--como__com--lolo {
+    width: 290px;
+  }
+  #london {
+    padding: 15px;
+  }
+  #london .london--df__sap {
+    width: 35%;
+  }
+  #footer {
+    padding: 25px;
+  }
+  #footer .footer--pen h1 {
+    margin-left: 62px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 450px) {
+  #hero .hero1 {
+    width: 450px;
+    height: 401px;
+  }
+  #hero {
+    background: url(/img/fon.png);
+    min-height: 70vh;
+    height: 375px;
+  }
+  #hero .hero--img {
+    top: 170px;
+  }
+  #hero .hero--img__Polo {
+    width: 13%;
+  }
+  #hero .hero--img__polo {
+    width: 26%;
+    margin-top: 10px;
+  }
+  #usa .use--logo__put--put1 p {
+    margin-left: -291px;
+  }
+  #usa .use--logo__put--tub {
+    margin-top: 28px;
+    margin-left: -300px;
+  }
+  #usa .use--logo1__but1 {
+    font-size: 25px;
+    line-height: 24px;
+    margin-left: -99px;
+  }
+  #usa .use--logo1__but {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  #usa .use--logo {
+    width: 425px;
+  }
+  #usa .use--logo__logo1 {
+    margin-top: -139px;
+  }
+  #usa .use--logo1__but {
+    margin-left: -98px;
+  }
+  #rasia .rasia--rus h2 {
+    font-size: 30px;
+    line-height: 34px;
+  }
+  #rasia .rasia--rus h1 {
+    margin-top: 50px;
+    font-size: 12px;
+    line-height: 11px;
+  }
+  #rasia .rasia--rus p {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  #china .china--gum {
+    width: 493px;
+  }
+  #usa .use--logo {
+    width: 371px;
+    padding: 0 26px;
+  }
+  #car .car--cat h2 {
+    font-size: 25px;
+    line-height: 24px;
+  }
+  #car .car--cat p {
+    font-size: 13px;
+    line-height: 13px;
+  }
+  #dad .dad--logo {
+    width: 166px;
+    margin-left: 35px;
+  }
+  #dad .dad--logo__put--tub__gut h1 {
+    font-size: 9px;
+    line-height: 8px;
+    margin-top: -17px;
+  }
+  #dad .dad--mom__baby h2 {
+    font-size: 20px;
+    line-height: 21px;
+  }
+  #london .london--chem h2 {
+    font-size: 24px;
+  }
+  #london .london--zoom h1 {
+    font-size: 11px;
+  }
+  #london .london--wat p {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  #london .london--df__sap--kop {
+    padding: 6px 20px;
+  }
+  #london .london--df__sap--kob {
+    height: 29px;
+  }
+  #footer .footer--kano {
+    width: 106%;
+    margin-left: 18px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  #footer .footer--pen h1 {
+    margin-left: 67px;
+    font-size: 9px;
+  }
+  #footer .footer--cara {
+    margin-left: 61px;
+  }
+}
+@media (max-width: 414px) {
+  #hero .hero1 {
+    width: 414px;
+  }
+  #usa .use--logo {
+    width: 338px;
+    padding: 0 26px;
+  }
+  #usa .use--logo__put--put1 p {
+    margin-left: -153px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+  #usa .use--logo {
+    width: 334px;
+    padding: 0px 0px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  #usa .use--logo__put--tub {
+    margin-top: 26px;
+    margin-left: -198px;
+  }
+  #china .china--gum {
+    width: 459px;
+  }
+  #footer .footer--kano {
+    width: 96%;
+  }
+  #dad .dad--logo {
+    width: 159px;
+    margin-left: 17px;
+  }
+  #dad .dad--logo__put--tub__gut h1 {
+    font-size: 8px;
+    line-height: 7px;
+    margin-top: -23px;
+  }
+  #dad .dad--logo__put--tub__gut p {
+    font-size: 8px;
+    line-height: 9px;
+  }
+}
+@media (max-width: 400px) {
+  #hero .hero1 {
+    width: 400px;
+  }
+  #china .china--gum {
+    width: 446px;
+  }
+  #hero .hero--img h1 {
+    font-size: 22px;
+    line-height: 23px;
+  }
+  #usa .use--logo1__but1 {
+    font-size: 24px;
+    line-height: 21px;
+  }
+  #rasia .rasia--rus h2 {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  #rasia .rasia--rus p {
+    font-size: 13px;
+    line-height: 14px;
+  }
+  #car .car--cat h2 {
+    font-size: 23px;
+    line-height: 22px;
+  }
+  #car .car--cat p {
+    font-size: 12px;
+    line-height: 11px;
+  }
+  #pubg .pubg--play h2 {
+    font-size: 26px;
+    line-height: 25px;
+  }
+  #swiper1 .swiper1--as h2 {
+    font-size: 28px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
